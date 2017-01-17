@@ -8,7 +8,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "scrollreveal-rails", git: "https://github.com/DesignerShare/scrollreveal-rails.git",
+gem "scrollreveal-rails", git: "https://github.com/DesignerShare/scrollreveal-rails.git"
 ```
 
 And then execute:
