@@ -30,6 +30,7 @@ scrollreveal 3.3.2:
 * scrollreveal.js
 * scrollreveal.min.js
 
-## License
+## Licenses
 
-Open source under the MIT License. ©2014–2016 Julian Lloyd.
+* ScrollReveal: Open source under the MIT License. ©2014–2016 Julian Lloyd.
+* scrollreveal-rails: Open source under the MIT License. Copyright ©2017 DesignerShare
